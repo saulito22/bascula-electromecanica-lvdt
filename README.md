@@ -1,0 +1,1 @@
+# bascula-electromecanica-lvdt
